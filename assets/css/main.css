@@ -2124,7 +2124,7 @@ input, select, textarea {
 		}
 
 			.image.fit img {
-				width: 100%;
+				width: 50%;
 			}
 
 		.image.avatar {
@@ -2164,7 +2164,7 @@ input, select, textarea {
 
 		ul.alt {
 			list-style: none;
-			padding-left: 75px;
+			padding-left: 100px;
 		}
 
 			ul.alt li {
@@ -2592,7 +2592,7 @@ input, select, textarea {
 		background-repeat: repeat,								no-repeat;
 		background-size: 100%;
 		color: rgba(255, 255, 255, 0.5);
-		height: 750px;
+		height: 900px;
 		left: 0;
 		padding: 4em 4em ;
 		position: absolute;
