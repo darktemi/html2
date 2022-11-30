@@ -78,14 +78,19 @@
     min-height: 130px;
 }
 #main4{
-    border: red 1px solid;
+    
     margin-top: 20px;
     margin-right: 765px;
     margin-left: 385px;
     min-height: 130px;
 }
+<<<<<<< HEAD
 #main5{ 
     border: red 1px solid;
+=======
+#main5{
+    
+>>>>>>> 38e24f99bb0ab72e1e98ced93d7a66549169d5a6
     margin-top: 20px;
     margin-right: 765px;
     margin-left: 385px;
