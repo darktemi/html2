@@ -70,14 +70,28 @@
     margin-right: 765px;
     margin-left: 385px;
     min-height: 130px;
+    background-image: url(https://ssl.pstatic.net/melona/libs/1417/1417808/9e99e0b8656796bc5e20_20221128145516623.jpg);
 }
 #main2{
+    background-color: rgb(247,249,250);
     border: red 1px solid;
     margin-top: 20px;
     margin-right: 765px;
     margin-left: 385px;
+<<<<<<< HEAD
     height: 50px;
+=======
+    min-height: 49px;
+    text-align: center;
+    padding-top: 20px;
+    font-style: italic;
+>>>>>>> 7517b61ca64834dac5a10544d9f4c955a790282f
 }
+#main2 :nth-child(1){
+    font-style: normal;
+    margin-right: 40px;
+}
+
 #main3{
     border: red 1px solid;
     margin-top: 10px;
@@ -97,13 +111,19 @@
     margin-left: 385px;
     min-height: 250px;
 }
+<<<<<<< HEAD
+#main5{ 
+    border: red 1px solid;
+=======
 #main5{
     
+>>>>>>> 38e24f99bb0ab72e1e98ced93d7a66549169d5a6
     margin-top: 20px;
     margin-right: 765px;
     margin-left: 385px;
     min-height: 130px;
 }
+
 #main6{
     border: red 1px solid;
     margin-top: 20px;
@@ -116,7 +136,15 @@
     margin-top: 20px;
     margin-right: 765px;
     margin-left: 385px;
-    min-height: 130px;
+    height: 49px;
+    /* position: relative; */
+}
+#main7 .category{
+    border: purple 1px solid;
+    padding: 10px 28px;
+    position: relative;
+    top: 15px;
+    
 }
 #main8{
     border: red 1px solid;
