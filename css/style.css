@@ -43,11 +43,17 @@
     font-size: 12px;
     margin-right: 20px;
 }
+.jrnaver:hover{
+    background-image: url(https://s.pstatic.net/static/www/img/uit/sp_main_947f65.png);
+}
 #happybean{
     border: 1px red solid;
     float: right;
     font-size: 12px;
     margin-right: 300px;
+}
+.happybean:hover{
+    background-image: url(https://s.pstatic.net/static/www/img/uit/sp_main_947f65.png);
 }
 #nav{
     border: yellow 5px solid;
@@ -183,7 +189,7 @@
 #side_right{
     border: red 1px solid;
     width: 380px;
-    height: 4000px;
+    height: 2000px;
     float: right;
     margin-top: 20px;
     margin-right: 350px;
@@ -213,6 +219,7 @@
     border: 1px red solid;
     box-sizing: border-box;
     margin-top: 20px;
+    background-image: url(images/banner1.jpg);
     }
 #side_right_box4{
     width: 380px;
