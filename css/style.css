@@ -78,14 +78,11 @@
     margin-top: 20px;
     margin-right: 765px;
     margin-left: 385px;
-<<<<<<< HEAD
     height: 50px;
-=======
     min-height: 49px;
     text-align: center;
     padding-top: 20px;
     font-style: italic;
->>>>>>> 7517b61ca64834dac5a10544d9f4c955a790282f
 }
 #main2 :nth-child(1){
     font-style: normal;
@@ -100,30 +97,18 @@
     height: 50px;
 }
 #main4{
-<<<<<<< HEAD
     border: red 1px solid;
     margin-top: 10px;
-=======
-    
-    margin-top: 20px;
->>>>>>> 38e24f99bb0ab72e1e98ced93d7a66549169d5a6
     margin-right: 765px;
     margin-left: 385px;
     min-height: 250px;
 }
-<<<<<<< HEAD
-#main5{ 
-    border: red 1px solid;
-=======
 #main5{
-    
->>>>>>> 38e24f99bb0ab72e1e98ced93d7a66549169d5a6
     margin-top: 20px;
     margin-right: 765px;
     margin-left: 385px;
     min-height: 130px;
 }
-
 #main6{
     border: red 1px solid;
     margin-top: 20px;
