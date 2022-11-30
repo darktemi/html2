@@ -219,7 +219,7 @@
     border: 1px red solid;
     box-sizing: border-box;
     margin-top: 20px;
-    background-image: url(images/banner1.jpg);
+    background-image: url(../images/banner1.jpg);
     }
 #side_right_box4{
     width: 380px;
@@ -237,7 +237,7 @@
     }
 #side_right_box6{
     width: 380px;
-    height: 100px;
+    height: 800px;
     border: 1px red solid;
     box-sizing: border-box;
     margin-top: 20px;
@@ -313,6 +313,20 @@
     box-sizing: border-box;
     margin-top: 20px;
     }
+.banner{
+    margin: 5px;
+}
+#banner2, #banner3, #banner4, #banner5, #banner6, #banner7,
+#banner8, #banner9, #banner10, #banner11, #banner12, #banner13{
+    float: left;
+    font-size: x-small;
+}
+#banner2, #banner3, #banner4{
+    margin-top: 20px;
+}
+#banner2, #banner5, #banner8, #banner11{
+    margin-left: 15px;
+}
 #footer{
     border: green 1px solid;
     clear: right;
