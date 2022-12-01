@@ -78,6 +78,7 @@
     margin-left: 385px;
     min-height: 130px;
     background-image: url(https://ssl.pstatic.net/melona/libs/1417/1417808/9e99e0b8656796bc5e20_20221128145516623.jpg);
+    float: none;
 }
 #main2{
     background-color: rgb(247,249,250);
@@ -146,6 +147,7 @@
     vertical-align: top;
     opacity: .7;
     margin: 0 10px 0 10px;
+    box-sizing: border-box;
     
 }
 .nslogo2 {
@@ -230,13 +232,72 @@
 }
 #side_right_box1{
     width: 380px;
-    height: 130px;
+    height: 133px;
     /* border: 1px red solid; */
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    border: 1px solid #dae1e6;
+    float: none;
+    
 
     }
+.nlogin {
+    display: block;
+    padding: 15px 0;
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: #19ce60;
+    border: 1px solid #15c654;
+    border-radius: 2px;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 700;
+    width: 330px;
+
+    
+
+}
+.n_icon {
+    background-image: url(https://s.pstatic.net/static/www/img/uit/sp_main_947f65.png);
+    background-size: 442px 428px;
+    display: inline-block;
+    width: 60px;
+    height: 12px;
+    background-position: -202px -296px;
+    background-repeat: no-repeat;
+    vertical-align: top;
+    margin: 2px 5px 0 0;
+
+}
+
+.ntest {
+    padding-left: 3px;
+    color: grey;
+    display: block;
+    font-size: 12px;
+    line-height: 16px;
+    float: left;
+    margin-top: -75px;
+    padding-left: 20px;
+    
+    
+}
+.sub_area {
+    margin: 8px 8px 0 25px;
+    display: block;
+    font-style: normal;
+    float: left;
+    font-size: small;
+    width: 380;
+    
+}
+.link_join {
+    position: absolute;
+    left: 1470px;
+    
+}
+
 #side_right_box2{
     width: 380px;
     height: 50px;
