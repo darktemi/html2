@@ -382,27 +382,14 @@
 }
 .banner{
     margin: 5px;
-}
-#banner2, #banner3, #banner4, #banner5, #banner6, #banner7,
-#banner8, #banner9, #banner10, #banner11, #banner12, #banner13{
     float: left;
     font-size: x-small;
 }
-#main8-1, #main8-2, #main8-3, #main8-4, #main8-5, #main8-6,
-#main8-7, #main8-8, #main8-9, #main8-10, #main8-11, #main8-12{
+.main8{
     float: left;
     font-size: small;
     margin: 7px;
     margin-top: 20px;
-}
-#main8-1, #main8-4, #main8-7, #main8-10{
-    margin-left: 20px;
-}
-#banner2, #banner3, #banner4{
-    margin-top: 20px;
-}
-#banner2, #banner5, #banner8, #banner11{
-    margin-left: 15px;
 }
 #footer{
     border: green 1px solid;
