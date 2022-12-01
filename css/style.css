@@ -237,8 +237,8 @@ a{text-decoration: none;}
     /* border: red 1px solid; */
     margin-top: 20px;
     margin-right: 765px;
-    margin-left: 370px;
-    min-height: 1000px;
+    margin-left: 380px;
+    min-height: 895px;
 }
 .mainfont:link{color: black;}
 .mainfont:visited{color: black;}
@@ -314,8 +314,8 @@ a{text-decoration: none;}
 
 #side_right_box6{
     width: 380px;
-    height: 900px;
-    border: 1px rgb(230, 230, 230) solid;
+    height: 850px;
+    border: 1px rgb(220, 220, 220) solid;
     box-sizing: border-box;
     margin-top: 20px;
     padding-top: 50px;
@@ -380,11 +380,11 @@ a{text-decoration: none;}
 .main8{
     float: left;
     font-size: small;
-    margin: 7px;
+    margin: 10px;
     margin-top: 20px;
 }
-#main8{
-    margin-left: 380px;
+.living{
+    height: 180px;
 }
 #footer{
     border: green 1px solid;
