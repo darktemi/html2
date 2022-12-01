@@ -237,8 +237,8 @@ a{text-decoration: none;}
     /* border: red 1px solid; */
     margin-top: 20px;
     margin-right: 765px;
-    margin-left: 370px;
-    min-height: 1000px;
+    margin-left: 380px;
+    min-height: 900px;
 }
 .mainfont:link{color: black;}
 .mainfont:visited{color: black;}
@@ -248,7 +248,7 @@ a{text-decoration: none;}
 #side_right{
     /* border: red 1px solid; */
     width: 380px;
-    height: 1800px;
+    height: 1600px;
     float: right;
     margin-top: 20px;
     margin-right: 350px;
@@ -440,9 +440,6 @@ a{text-decoration: none;}
     font-size: small;
     margin: 7px;
     margin-top: 20px;
-}
-#main8{
-    margin-left: 380px;
 }
 #footer{
     border: green 1px solid;
