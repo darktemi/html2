@@ -280,20 +280,38 @@ a{text-decoration: none;}
     margin-top: 20px;
     background-image: url(../images/banner1.jpg);
     }
+
 #side_right_box4{
-    width: 380px;
-    height: 50px;
+    /* border: 1px blue solid; */
+    text-align: right;
+    margin-top: 25px;
+    font-family: fantasy;
+    font-weight: 600;
+    word-spacing: 1px;
+    /* box-sizing: border-box; */
+}
+#side_right_box4 a:hover{
+    cursor: pointer;
+}
+.trend-shopping :nth-child(1) {
+    text-decoration: none;
+    margin-right: 165px;  
+}
+
+#side_right_box5{
+    height: 70px;
     /* border: 1px red solid; */
     box-sizing: border-box;
     margin-top: 20px;
+    padding-top: 10px;
+    font-size: 90%;
+    padding-left: 10px;
+    word-spacing: 17px;
+    text-align: justify;
+    background-color: rgb(247,249,250);
+    font-weight: 500;
     }
-#side_right_box5{
-    width: 380px;
-    height: 50px;
-    border: 1px red solid;
-    box-sizing: border-box;
-    margin-top: 20px;
-    }
+
 #side_right_box6{
     width: 380px;
     height: 900px;
