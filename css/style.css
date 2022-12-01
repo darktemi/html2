@@ -248,7 +248,7 @@ a{text-decoration: none;}
 #side_right{
     /* border: red 1px solid; */
     width: 380px;
-    height: 1600px;
+    height: 1700px;
     float: right;
     margin-top: 20px;
     margin-right: 350px;
@@ -376,7 +376,7 @@ a{text-decoration: none;}
 
 #side_right_box6{
     width: 380px;
-    height: 900px;
+    height: 850px;
     border: 1px rgb(230, 230, 230) solid;
     box-sizing: border-box;
     margin-top: 20px;
@@ -384,12 +384,14 @@ a{text-decoration: none;}
     float: left;
 }
 #side_right_box7{
-    height: 262px;
-    /* border: 1px red solid; */
+    border: 1px rgb(220, 220, 220) solid;
     box-sizing: border-box;
     margin-top: 20px;
     padding: 15px;
     text-align: left;
+    height: 230px;
+    width: 380px;
+    float: left;
 }
 .shoping{
     padding-top: 10px;
@@ -408,7 +410,12 @@ a{text-decoration: none;}
     cursor: pointer;
     text-decoration: underline;
 }
-    
+#side_right_box7:link{color: black;}
+#side_right_box7:visited{color: black;}
+
+.shopping:link{color: black;}
+.shopping:visited{color: black;}
+
 .banner_all:link{color: black;}
 .banner_all:visited{color: black;}
 .banner_all:hover{text-decoration: underline;}
